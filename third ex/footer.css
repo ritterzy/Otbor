@@ -1,0 +1,86 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 64px 110px;
+    gap: 149px;
+    position: absolute;
+    width: 1500.44px;
+    height: 312px;
+    left: 0px;
+    top: 0px;
+    background: #161722;
+}
+
+.list-items{
+    width: 167.44px;
+    height: 176px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.mother{
+    position: absolute;
+}
+.logo{
+    position: absolute;
+
+}
+.text{
+    position: absolute;
+
+    font-family: 'Roboto Condensed';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 14px;
+
+    text-align: center;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+}
+.info{
+    
+}
+.li-text{
+    
+}
+
+.links-column{
+
+}
+.Links-header{
+
+}
+.links-li{
+
+}
+
+.connection{
+
+}
+p{
+
+}
+.Logos{
+
+}
+.Subscription{
+
+}
+
+.Subs-h1{
+
+}
+.gmail{
+
+}
+.btn{
+
+}
